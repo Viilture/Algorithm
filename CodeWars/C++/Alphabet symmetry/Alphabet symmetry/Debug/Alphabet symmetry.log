@@ -1,0 +1,5 @@
+﻿  Alphabet symmetry.cpp
+C:\MYFILE\Program\CodeWars\Alphabet symmetry\Alphabet symmetry\Alphabet symmetry.cpp(25,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\MYFILE\Program\CodeWars\Alphabet symmetry\Alphabet symmetry\Alphabet symmetry.cpp(28,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\MYFILE\Program\CodeWars\Alphabet symmetry\Alphabet symmetry\Alphabet symmetry.cpp(44,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Alphabet symmetry.vcxproj -> C:\MYFILE\Program\CodeWars\Alphabet symmetry\Alphabet symmetry\Debug\Alphabet symmetry.exe

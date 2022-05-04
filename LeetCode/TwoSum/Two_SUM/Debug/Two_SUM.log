@@ -1,0 +1,5 @@
+﻿  Two_SUM.cpp
+C:\MYFILE\Program\LeetCode\TwoSum\Two_SUM\Two_SUM.cpp(21,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\MYFILE\Program\LeetCode\TwoSum\Two_SUM\Two_SUM.cpp(26,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\MYFILE\Program\LeetCode\TwoSum\Two_SUM\Two_SUM.cpp(39): warning C4715: twoSum: значение возвращается не при всех путях выполнения
+  Two_SUM.vcxproj -> C:\MYFILE\Program\LeetCode\TwoSum\Two_SUM\Debug\Two_SUM.exe
