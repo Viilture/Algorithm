@@ -1,0 +1,10 @@
+﻿  Beginner - Lost Without a Map.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(3513,1): error C2064: результатом вычисления фрагмента не является функция, принимающая 0 аргументов
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(3513,1): message : класс не определяет "operator()" или пользовательский оператор преобразования в указатель на функцию или ссылку на функцию, принимающий подходящее число аргументов
+C:\MYFILE\Program\Algorithm\CodeWars\C++\8\Beginner - Lost Without a Map\Beginner - Lost Without a Map\Beginner - Lost Without a Map.cpp(13): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::generate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,maps::<lambda_2d469cee54793fb5e6a1f69abd490ce5>>(_FwdIt,_FwdIt,_Fn)"
+          with
+          [
+              _Ty=int,
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,
+              _Fn=maps::<lambda_2d469cee54793fb5e6a1f69abd490ce5>
+          ]

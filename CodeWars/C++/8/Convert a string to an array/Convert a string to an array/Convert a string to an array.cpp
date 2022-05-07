@@ -11,23 +11,10 @@ std::vector<std::string> string_to_array(const std::string& s)
 {
     std::vector<std::string> out;
     std::string send ;
-    for (auto i : s)
-   {
-        if (i != ' ') send += i;
-        else 
-        {
-            out.push_back(send);
-            send.clear();
-        }
-
-    }
     
-    
-        out.push_back(send);
-        send.clear();
-    
+    std::copy(s[0], s[5], &send);
 
-
+    std::cout << send;
 
         return out;
 }

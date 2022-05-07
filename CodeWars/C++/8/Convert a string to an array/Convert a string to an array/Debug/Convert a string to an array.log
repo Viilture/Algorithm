@@ -1,2 +1,36 @@
 ﻿  Convert a string to an array.cpp
-  Convert a string to an array.vcxproj -> C:\MYFILE\Program\Algorithm\CodeWars\C++\8\Convert a string to an array\Convert a string to an array\Debug\Convert a string to an array.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1249,54): error C2794: iterator_category: не является прямым или косвенным базовым классом для "std::iterator_traits<_Iter>"
+          with
+          [
+              _Iter=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1276): message : выполняется компиляция ссылки на экземпляр псевдоним шаблон функции "std::_Iter_cat_t<char>"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1478): message : выполняется компиляция ссылки на шаблон переменной "const bool _Is_random_iter_v<char>"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(4209): message : выполняется компиляция ссылки на экземпляр шаблон функции "auto std::_Idl_distance<_InIt,_InIt>(const _Iter &,const _Iter &)"
+          with
+          [
+              _InIt=char,
+              _Iter=char
+          ]
+C:\MYFILE\Program\Algorithm\CodeWars\C++\8\Convert a string to an array\Convert a string to an array\Convert a string to an array.cpp(15): message : выполняется компиляция ссылки на экземпляр шаблон функции "_OutIt std::copy<char,std::string*>(_InIt,_InIt,_OutIt)"
+          with
+          [
+              _OutIt=std::string *,
+              _InIt=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1276,13): error C2938: "std::_Iter_cat_t": не удалось специализировать шаблон псевдонима
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1276): error C2062: тип "unknown-type" не требуется
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1478,1): error C3376: "std::_Is_random_iter_v": разрешены только шаблоны статических элементов данных
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1478,43): error C2059: синтаксическая ошибка: )
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1478,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1240,55): error C2794: difference_type: не является прямым или косвенным базовым классом для "std::iterator_traits<_Iter>"
+          with
+          [
+              _Iter=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1479): message : выполняется компиляция ссылки на экземпляр псевдоним шаблон функции "std::_Iter_diff_t<char>"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1479,1): error C2938: "std::_Iter_diff_t": не удалось специализировать шаблон псевдонима
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1480,1): error C2181: недопустимый else без парного if
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1481,1): error C3487: "std::_Distance_unknown": все возвращаемые выражения в лямбда-выражении должны иметь один и тот же тип: ранее использовался тип "int"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1481,1): error C2440: return: невозможно преобразовать "std::_Distance_unknown" в "int"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(1481,33): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
