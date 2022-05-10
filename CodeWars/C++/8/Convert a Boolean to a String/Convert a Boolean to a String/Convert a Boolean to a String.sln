@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Convert a Boolean to a String", "Convert a Boolean to a String.vcxproj", "{B8477EA8-209B-4172-A5A6-4EB244B8BCD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8477EA8-209B-4172-A5A6-4EB244B8BCD4}.Debug|x64.ActiveCfg = Debug|x64
+		{B8477EA8-209B-4172-A5A6-4EB244B8BCD4}.Debug|x64.Build.0 = Debug|x64
+		{B8477EA8-209B-4172-A5A6-4EB244B8BCD4}.Debug|x86.ActiveCfg = Debug|Win32
+		{B8477EA8-209B-4172-A5A6-4EB244B8BCD4}.Debug|x86.Build.0 = Debug|Win32
+		{B8477EA8-209B-4172-A5A6-4EB244B8BCD4}.Release|x64.ActiveCfg = Release|x64
+		{B8477EA8-209B-4172-A5A6-4EB244B8BCD4}.Release|x64.Build.0 = Release|x64
+		{B8477EA8-209B-4172-A5A6-4EB244B8BCD4}.Release|x86.ActiveCfg = Release|Win32
+		{B8477EA8-209B-4172-A5A6-4EB244B8BCD4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A361AD05-A0FF-4B90-97EB-83486F9FF9BE}
+	EndGlobalSection
+EndGlobal
