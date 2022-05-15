@@ -8,7 +8,7 @@
 
 int positive_sum(const std::vector<int> arr) {
 
-    int out = std::accumulate(arr.begin(), arr.end(), 0, [](int in, int i) {return i > 0 ? in + i : in; });
+    int out = std::accumulate(arr.begin(), arr.end(), 0, [](int start_count, int iterator_arr) {return iterator_arr > 0 ? start_count + iterator_arr : iterator_arr; });
     return out;
 }
 
