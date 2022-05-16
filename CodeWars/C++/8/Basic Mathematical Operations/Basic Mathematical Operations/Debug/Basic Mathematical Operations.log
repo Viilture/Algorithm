@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  Basic Mathematical Operations.cpp
+C:\MYFILE\Program\Algorithm\CodeWars\C++\8\Basic Mathematical Operations\Basic Mathematical Operations\Basic Mathematical Operations.cpp(8,9): warning C4101: out: неиспользованная локальная переменная
+C:\MYFILE\Program\Algorithm\CodeWars\C++\8\Basic Mathematical Operations\Basic Mathematical Operations\Basic Mathematical Operations.cpp(28): warning C4715: basicOp: значение возвращается не при всех путях выполнения
+  Basic Mathematical Operations.vcxproj -> C:\MYFILE\Program\Algorithm\CodeWars\C++\8\Basic Mathematical Operations\Basic Mathematical Operations\Debug\Basic Mathematical Operations.exe

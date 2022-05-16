@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Beginner Series 4 Cockroach.cpp
+C:\MYFILE\Program\Algorithm\CodeWars\C++\8\Beginner Series 4 Cockroach\Beginner Series 4 Cockroach\Beginner Series 4 Cockroach.cpp(10,25): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Beginner Series 4 Cockroach.vcxproj -> C:\MYFILE\Program\Algorithm\CodeWars\C++\8\Beginner Series 4 Cockroach\Beginner Series 4 Cockroach\Debug\Beginner Series 4 Cockroach.exe
