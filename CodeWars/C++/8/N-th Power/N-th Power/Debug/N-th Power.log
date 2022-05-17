@@ -1,0 +1,4 @@
+﻿  N-th Power.cpp
+C:\MYFILE\Program\Algorithm\CodeWars\C++\8\N-th Power\N-th Power\N-th Power.cpp(12,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\MYFILE\Program\Algorithm\CodeWars\C++\8\N-th Power\N-th Power\N-th Power.cpp(13,20): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  N-th Power.vcxproj -> C:\MYFILE\Program\Algorithm\CodeWars\C++\8\N-th Power\N-th Power\Debug\N-th Power.exe

@@ -1,0 +1,1 @@
+C:\MYFILE\Program\Algorithm\CodeWars\C++\8\Count the number of cubes with paint on\Count the number of cubes with paint on\x64\Debug\Count the number of cubes with paint on.exe
