@@ -9,9 +9,9 @@
 
 int index(const std::vector<int>& vector, int n)
 {
-    if (vector.size() < n) return -1;
+    if (n > vector.size() - 1 || n < 0) return -1;
     return std::pow(vector[n], n);
-        
+
 }
 
 int main()
