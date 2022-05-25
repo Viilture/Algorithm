@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The falling speed of petals", "The falling speed of petals.vcxproj", "{EB77CE03-E08B-4E6B-858F-0B25255DB092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB77CE03-E08B-4E6B-858F-0B25255DB092}.Debug|x64.ActiveCfg = Debug|x64
+		{EB77CE03-E08B-4E6B-858F-0B25255DB092}.Debug|x64.Build.0 = Debug|x64
+		{EB77CE03-E08B-4E6B-858F-0B25255DB092}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB77CE03-E08B-4E6B-858F-0B25255DB092}.Debug|x86.Build.0 = Debug|Win32
+		{EB77CE03-E08B-4E6B-858F-0B25255DB092}.Release|x64.ActiveCfg = Release|x64
+		{EB77CE03-E08B-4E6B-858F-0B25255DB092}.Release|x64.Build.0 = Release|x64
+		{EB77CE03-E08B-4E6B-858F-0B25255DB092}.Release|x86.ActiveCfg = Release|Win32
+		{EB77CE03-E08B-4E6B-858F-0B25255DB092}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D772BB81-6FC2-42DB-9B0B-758536C2FD68}
+	EndGlobalSection
+EndGlobal

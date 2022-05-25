@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Determine offspring.cpp
+C:\MYFILE\Program\Algorithm\CodeWars\C++\8\Determine offspring\Determine offspring\Determine offspring.cpp(12): warning C4715: chromosomeCheck: значение возвращается не при всех путях выполнения
+  Determine offspring.vcxproj -> C:\MYFILE\Program\Algorithm\CodeWars\C++\8\Determine offspring\Determine offspring\Debug\Determine offspring.exe
