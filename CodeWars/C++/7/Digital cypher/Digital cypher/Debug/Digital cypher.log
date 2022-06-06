@@ -1,0 +1,4 @@
+﻿  Digital cypher.cpp
+C:\MYFILE\Program\Algorithm\CodeWars\C++\7\Digital cypher\Digital cypher\Digital cypher.cpp(51,1): error C2597: недопустимая ссылка на нестатический член "Kata::shifr"
+C:\MYFILE\Program\Algorithm\CodeWars\C++\7\Digital cypher\Digital cypher\Digital cypher.cpp(51,1): error C3867: "Kata::shifr": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\MYFILE\Program\Algorithm\CodeWars\C++\7\Digital cypher\Digital cypher\Digital cypher.cpp(51,1): error C2109: для индекса требуется массив или указатель

@@ -1,0 +1,4 @@
+﻿  Coprime Validator.cpp
+C:\MYFILE\Program\Algorithm\CodeWars\C++\7\Coprime Validator\Coprime Validator\Coprime Validator.cpp(30,17): error C2039: "gcd": не является членом "std".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\numeric(23): message : см. объявление "std"
+C:\MYFILE\Program\Algorithm\CodeWars\C++\7\Coprime Validator\Coprime Validator\Coprime Validator.cpp(30,20): error C3861: gcd: идентификатор не найден
