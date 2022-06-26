@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cesrd Strings", "Cesrd Strings.vcxproj", "{046773D2-A0AD-4883-9E94-6D7653C9C7B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{046773D2-A0AD-4883-9E94-6D7653C9C7B7}.Debug|x64.ActiveCfg = Debug|x64
+		{046773D2-A0AD-4883-9E94-6D7653C9C7B7}.Debug|x64.Build.0 = Debug|x64
+		{046773D2-A0AD-4883-9E94-6D7653C9C7B7}.Debug|x86.ActiveCfg = Debug|Win32
+		{046773D2-A0AD-4883-9E94-6D7653C9C7B7}.Debug|x86.Build.0 = Debug|Win32
+		{046773D2-A0AD-4883-9E94-6D7653C9C7B7}.Release|x64.ActiveCfg = Release|x64
+		{046773D2-A0AD-4883-9E94-6D7653C9C7B7}.Release|x64.Build.0 = Release|x64
+		{046773D2-A0AD-4883-9E94-6D7653C9C7B7}.Release|x86.ActiveCfg = Release|Win32
+		{046773D2-A0AD-4883-9E94-6D7653C9C7B7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F5C4F6A-B042-4410-8539-07BD09C8E958}
+	EndGlobalSection
+EndGlobal

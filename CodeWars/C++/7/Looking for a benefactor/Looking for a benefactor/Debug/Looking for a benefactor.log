@@ -1,0 +1,4 @@
+﻿  Looking for a benefactor.cpp
+C:\MYFILE\Program\Algorithm\CodeWars\C++\7\Looking for a benefactor\Looking for a benefactor\Looking for a benefactor.cpp(19,25): error C2275: std::logic_error: недопустимое использование этого типа в качестве выражения
+C:\MYFILE\Program\Algorithm\CodeWars\C++\7\Looking for a benefactor\Looking for a benefactor\Looking for a benefactor.cpp(19): message : см. объявление "std::logic_error"
+C:\MYFILE\Program\Algorithm\CodeWars\C++\7\Looking for a benefactor\Looking for a benefactor\Looking for a benefactor.cpp(23,44): warning C4244: return: преобразование "double" в "__int64", возможна потеря данных
