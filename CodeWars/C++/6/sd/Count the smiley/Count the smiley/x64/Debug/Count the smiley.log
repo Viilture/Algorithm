@@ -1,0 +1,8 @@
+﻿  Count the smiley.cpp
+E:\MYFILE\Program(Github)\Algorithm\CodeWars\C++\6\Новая папка\Count the smiley\Count the smiley\Count the smiley.cpp(15,40): error C2664: "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::push_back(const _Elem)": невозможно преобразовать аргумент 1 из "std::string" в "const _Elem"
+          with
+          [
+              _Elem=char
+          ]
+E:\MYFILE\Program(Github)\Algorithm\CodeWars\C++\6\Новая папка\Count the smiley\Count the smiley\Count the smiley.cpp(15,36): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(4074,23): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::push_back"
